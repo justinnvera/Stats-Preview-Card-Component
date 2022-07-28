@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-component-css-grid-and-flexbox-SKiEmfpB2l)
+- Live Site URL: [Vercel](https://stats-preview-card-component-henna-mu.vercel.app)
 
 ### Built with
 
